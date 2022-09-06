@@ -1,7 +1,7 @@
 # Simple web portfolio
 
 > A simple and beautiful web portfolio at the same time.
-> Live demo [_here_](https://www.example.com). <!-- link to web page -->
+> Live demo [_here_](https://kovaliykserhii.github.io/). <!-- link to web page -->
 
 ## Table of Contents
 * [General Info](#general-information)
